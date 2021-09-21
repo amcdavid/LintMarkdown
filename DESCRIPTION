@@ -13,3 +13,5 @@ Imports: lintr
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 Roxygen: list(markdown = TRUE)
+URL: https://github.com/amcdavid/LintMarkdown
+BugReports: https://github.com/amcdavid/LintMarkdown/issues
