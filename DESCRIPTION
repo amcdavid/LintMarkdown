@@ -1,0 +1,15 @@
+Package: LintMarkdown
+Type: Package
+Title: Lint R and Rmd with default styles
+Version: 0.1.0
+Authors@R: 
+    person(given = "Andrew",
+             family = "McDavid",
+             role = c('aut', 'cre'),
+             email = "Andrew_McDavid@urmc.rochester.edu")
+Description: Runs lintr on both R and .Rmd with some opinions about `<-`
+License: GPL-3
+Imports: lintr
+Encoding: UTF-8
+RoxygenNote: 7.1.2
+Roxygen: list(markdown = TRUE)
